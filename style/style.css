@@ -1,0 +1,24 @@
+body{   
+    background-image:url("../images/BackgroundImage.jpg");
+}  
+#search-box{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+#frm{  
+    border-radius: 10px;
+    width:25%;  
+    border-radius: 2px;  
+    margin: 100px auto;  
+    background: #444444bf;
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 30%;  
+}  
+/*.login-container {
+    padding: 40px;
+    height: 450px;
+    background: #444444bf;
+    border-radius: 10px;
+}*/
